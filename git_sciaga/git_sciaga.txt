@@ -1,0 +1,6 @@
+
+1. pobranie zdalnej galezi
+git checkout -b issue1 origin/issue1
+
+2. wypchniecie zmian do zdalnej galezi
+git push origin issue1
