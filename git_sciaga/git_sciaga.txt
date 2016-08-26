@@ -4,3 +4,9 @@ git checkout -b issue1 origin/issue1
 
 2. wypchniecie zmian do zdalnej galezi
 git push origin issue1
+
+
+
+to_do
+1. pull request
+2. odmergowanie zmian (wycofanie zmiany z wdrozenia)
